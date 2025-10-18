@@ -1,11 +1,6 @@
 # Real-Estate-trends-in-Chaina
 This project tackles the Kaggle competition “China Real Estate Demand Prediction”, where the goal is to forecast future housing demand
 
-Perfect — here’s a **concise, Kaggle-style `README.md`** written exactly in the same structure and tone as your notebook.
-It’s aligned directly with your current code and logic — no extra narrative fluff, just clean technical explanation like a competition submission notebook.
-
----
-
 ```markdown
 # 🏠 China Real Estate Demand Prediction
 
