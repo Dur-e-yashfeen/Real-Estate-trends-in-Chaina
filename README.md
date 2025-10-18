@@ -157,9 +157,3 @@ print(submission.shape)
 submission.head()
 ```
 
-```
-
----
-
-Would you like me to append a short “Next Steps” section (for adding LightGBM + Optuna tuning as the next version of this notebook)?
-```
